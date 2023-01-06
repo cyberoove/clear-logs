@@ -1,6 +1,8 @@
 # Disclaimer
 The author is not responsible for any misuse of the code. Do not use this code for any illegal activities.
 
+**by (cyb3r00v3)**
+
 # Log File Deletion Script
 This script searches for log files in the /var/log directory and its subdirectories, and deletes the log files that have been modified within the past 24 hours.
 
